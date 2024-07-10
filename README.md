@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Matheus Dias da Silva ✌️
 
-- 💻 Desenvolvedora de Software C#
+- 💻 Desenvolvedor de Software C#
 - 📓 Graduando 5 Semestre de Ciências da Computação
 
 <div>
